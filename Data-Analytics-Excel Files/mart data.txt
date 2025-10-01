@@ -1,0 +1,6 @@
+dukan_wala1	Nagpur2	 offline3	  10	2000	50000	1000
+
+dukan_wala2,Nagpur3,offline4,110,20010,510000,11000
+
+dukan_wala2/Nagpur3&offline4/110,20010,510000,11000
+
