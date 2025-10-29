@@ -1,4 +1,3 @@
-id,name,address,contact_no,total_student,grade,total_staff
-5,col5,no_address,45465887,578,C,85
-6,col6,address1,4523755887,378,D,45
-7,col7,address2,4523986887,478,S,45
+5,col5,no_address,45465887,578,C,85,34
+6,col6,address1,4523755887,378,D,45,34
+7,col7,address2,4523986887,478,S,45,34
