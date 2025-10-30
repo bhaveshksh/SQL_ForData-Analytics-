@@ -1,1 +1,1 @@
-## Learning Excel for Data Analytics
+## Learning SQL for Data Analytics
